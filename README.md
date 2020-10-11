@@ -1,7 +1,7 @@
 # BARELY OPAQUE RED
 is a three.js game prototype that works on desktop and mobile.
 
-###### How to
+##### How to
 Turn left/right by swiping left/right or clicking left/right side of the screen.<br>
 Turn around by swiping down or clicking lower part of the screen.<br>
 Move forward by tapping/clicking anywhere else.
